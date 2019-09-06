@@ -15,7 +15,7 @@ ul li {
 }
 
 ul ul li {
-  list-style-type: upper-roman; /* ? */
+  list-style-type: circle; /* ? */
 }
 
 li, p {
