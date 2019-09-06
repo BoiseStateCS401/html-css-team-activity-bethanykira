@@ -10,12 +10,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ul li {
-  list-style: number; /* ? */
+  list-style-type: square; /* ? */
   margin: 5px 0px 5px 0px;
 }
 
 ul ul li {
-  list-style: bullet; /* ? */
+  list-style-type: upper-roman; /* ? */
 }
 
 li, p {
