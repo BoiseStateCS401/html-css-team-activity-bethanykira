@@ -10,12 +10,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ul li {
-  list-style-type: square; /* ? */
+  list-style-type: square;
   margin: 5px;
 }
 
 ul ul li {
-  list-style-type: circle; /* ? */
+  list-style-type: circle;
 }
 
 li, p {
@@ -37,7 +37,6 @@ img {
 }
 
 img:hover {
-  /* opacity */
   opacity: 0.3;
 }
 
