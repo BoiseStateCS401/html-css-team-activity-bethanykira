@@ -37,6 +37,7 @@ img {
 
 img:hover {
   /* opacity */
+  opacity: 0.3;
 }
 
 code {
@@ -45,6 +46,7 @@ code {
   border: 1px gray solid;
   padding: 20px;
   margin: 10px;
+  display: block;
 }
 
 table tr td {
