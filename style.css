@@ -1,3 +1,53 @@
 body {
   background-color: #b0e5ff;
+  font-family: arial;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: georgia;
+  font-size: 1.5 em;
+  text-align: center;
+}
+
+ul li {
+  list-style: number; /* ? */
+  margin: 5px 0px 5px 0px;
+}
+
+ul ul li {
+  list-style: bullet; /* ? */
+}
+
+li, p {
+  color: gray;
+}
+
+em, strong {
+  color: blue;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+img {
+  border-radius: 20px;
+}
+
+img:hover {
+  /* opacity */
+}
+
+code {
+  background-color: black;
+  color: white;
+  border: 1px gray solid;
+  padding: 20px;
+  margin: 10px;
+}
+
+table tr td {
+  border: 1px black solid;
+  border-collapse: collapse;
 }
